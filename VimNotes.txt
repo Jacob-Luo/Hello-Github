@@ -1,6 +1,6 @@
 ##Contents from http://www.openvim.com/.
 #
-1, 'i' to swith normal mode to insert mode.
+1, 'i' to switch normal mode to insert mode.
 2, 'h','j','k','l' for basic movement.
 3, 'w','e','b' are use to move one word at a time.
 4, '5w' move 5 words forword.
