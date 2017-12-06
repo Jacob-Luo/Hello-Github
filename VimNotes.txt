@@ -1,5 +1,21 @@
+##Contents from http://www.openvim.com/.
+#
 1, 'i' to swith normal mode to insert mode.
 2, 'h','j','k','l' for basic movement.
 3, 'w','e','b' are use to move one word at a time.
 4, '5w' move 5 words forword.
 5, '3itEsc' to insert 3 times of t.
+6, 'f','F' for find a character. '3fa' find the 3rd a forward.
+7, '%' move to matched parentheses.
+8, '0' to go to start of the line, and '%' to the end, 'a' to append after cursor.
+9, '*' find work under cursor forword, '#' bachword.
+10, 'gg' to the beginning of file and 'G' to the end, '2G' to the 2nd lind.
+11, '/' for search, 'n' next match and 'N' previous match.
+12, 'o' to insert a line below and 'O' inserts a line above.
+13, 'x','X' used as backspace.
+14, 'r' to replace one character.
+15, 'd' to delete/cut, 'dw' cut one word, 'd2e' cut 2 words, 'p' for paste, 'y' for copy, '3yy' copy 3 lines, 'u' for undo.
+16, '.' to repeat the previous command.
+17, 'v' entered the visual mode to select contents together with move commands.
+18, ':q' for quit and ':w' for save, ':x' save and quit, ':help'.
+
