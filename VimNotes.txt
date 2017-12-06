@@ -1,0 +1,2 @@
+1, 'i' to swith normal mode to insert mode.
+2, 'h','j','k','l' for basic movement.
