@@ -8,8 +8,8 @@
 6, 'f','F' for find a character. '3fa' find the 3rd a forward.
 7, '%' move to matched parentheses.
 8, '0' to go to start of the line, and '%' to the end, 'a' to append after cursor.
-9, '*' find work under cursor forword, '#' bachword.
-10, 'gg' to the beginning of file and 'G' to the end, '2G' to the 2nd lind.
+9, '*' find word under cursor forword, '#' backword.
+10, 'gg' to the beginning of file and 'G' to the end, '2G' to the 2nd line.
 11, '/' for search, 'n' next match and 'N' previous match.
 12, 'o' to insert a line below and 'O' inserts a line above.
 13, 'x','X' used as backspace.
